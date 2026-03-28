@@ -41,7 +41,7 @@ export default function Navbar({ hidden = false }) {
               ✦
             </span>
             <span className="opacity-90 group-hover:opacity-100 transition-opacity">
-              pale blue dot
+              the blue dot
             </span>
           </button>
 

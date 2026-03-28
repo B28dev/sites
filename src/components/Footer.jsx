@@ -25,7 +25,7 @@ export default function Footer() {
         <PaleBlueDot className="mb-10" />
 
         <div className="font-mono text-sm tracking-[0.3em] uppercase mb-6 cursor-default hover:text-white transition-colors" style={{ color: '#D4D8E8' }}>
-          · pale blue dot ·
+          · the blue dot ·
         </div>
 
         <p className="font-body text-sm font-light mb-16 cursor-default" style={{ color: '#8B92B0' }}>
